@@ -1,0 +1,84 @@
+*{
+    font-family: "Noto Sans" ;
+   
+}
+/* *{
+    box-sizing: border-box;
+} */
+body{
+    background-image: url(https://files.slack.com/files-pri/TNGRRLUMA-F01BXBE685V/page-background.jpg);
+    background-size: cover;
+}
+h1{
+    background-color: #1F1F1F;
+    text-align: center;
+    color:#f5f5f5 ;
+    width: 100%;
+    position: relative;
+    bottom: 23px;
+    height: 60px;
+}
+#table {
+    border-collapse: collapse;
+    position: relative;
+    width: 600px;
+    border:100px solid  rgb(143, 0, 0,.8);
+    /* border-bottom:750px; */
+    left:700px;
+
+}
+table,tr,td{
+    border: 2px solid #f5f5f5;
+    background-color: #3D3D3D;
+    color: #f5f5f5;
+}
+table,th{
+    background-color: #1F1F1F;
+    border: 2px solid #f5f5f5;
+    color: #f5f5f5;
+}
+fieldset{
+    position: relative;
+    width: 260px;
+    background-color: rgb(143, 0, 0,.8);
+    border-color: rgb(143, 0, 0,.8);
+    bottom: 157px;
+    left: 180px;
+    padding-left: 105px;
+    height: 230px;
+    padding-top: 13px;
+    bottom: 368px;
+    
+}
+form label{
+    display: flex;
+    width: 100px;
+    padding:10px;
+    text-align: center;
+    color: #1F1F1F  ;
+  
+}
+ #submit{
+    background-color: #1F1F1F ;
+    width: 166px;
+    color: #f5f5f5;
+    margin-top:20px;
+    height:30px;
+}
+   select{
+    width: 166px;
+}
+p{
+    position: relative;
+    width: 602px;
+    background-color: rgb(143, 0, 0,.8);
+    left: 700px;
+    text-align: center;
+    height: 30px;
+    bottom: 16px;
+    color: #f5f5f5;
+}
+.label{
+    color:#f5f5f5;
+}
+   
