@@ -2,9 +2,7 @@
     font-family: "Noto Sans" ;
    
 }
-/* *{
-    box-sizing: border-box;
-} */
+
 body{
     background-image: url(https://files.slack.com/files-pri/TNGRRLUMA-F01BXBE685V/page-background.jpg);
     background-size: cover;
@@ -23,7 +21,7 @@ h1{
     position: relative;
     width: 600px;
     border:100px solid  rgb(143, 0, 0,.8);
-    /* border-bottom:750px; */
+ 
     left:700px;
 
 }
